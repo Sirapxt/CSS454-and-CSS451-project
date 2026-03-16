@@ -1,4 +1,4 @@
-# Secure Encrypted Database System
+# Lightweight Dynamic Searchable Encryption for Electronic Health Records with HDFS
 
 ## Project Overview
 The Secure Encrypted Database System is a robust solution designed to provide secure data storage and management. It offers insert, search, update, and delete operations with a role-based access control system, ensuring that only authorized users can access sensitive information.
